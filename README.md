@@ -1,3 +1,5 @@
+<img src="assets/trimmage-icon.png" alt="Trimmage icon" width="72" align="right">
+
 # Trimmage
 
 Trimmageは、Windowsで画像を手軽にトリミングできるツールです。エクスプローラーで画像を右クリックして開き、範囲や角度を調整して保存できます。元画像はそのまま残ります。

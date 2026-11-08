@@ -1,8 +1,19 @@
-<img src="assets/trimmage-icon.png" alt="Trimmage icon" width="72" align="right">
+<div align="center">
+  <img src="./assets/trimmage-icon.png" alt="Trimmage アイコン" width="144">
 
-# Trimmage
+  <h1>Trimmage</h1>
 
-Trimmageは、Windowsで画像を手軽にトリミングできるツールです。エクスプローラーで画像を右クリックして開き、範囲や角度を調整して保存できます。元画像はそのまま残ります。
+  <p><strong>画像を右クリックして、手軽にトリミング。</strong></p>
+  <p>回転・反転・角度調整から、用途別のサイズ指定まで。<br>Windows向け画像トリミングツール。</p>
+
+  <p>
+    <a href="https://github.com/mayomayowyi/Trimmage/releases/latest">ダウンロード</a>
+    &nbsp;·&nbsp;
+    <a href="https://github.com/mayomayowyi/Trimmage/releases/tag/v0.0.1">リリースノート</a>
+  </p>
+</div>
+
+エクスプローラーで画像を開き、範囲や角度を調整して保存できます。元画像は変更されません。
 
 ## 主な機能
 
@@ -25,6 +36,10 @@ Trimmageは、Windowsで画像を手軽にトリミングできるツールで�
 .NETの追加インストールは不要です。
 
 ## 使い方
+
+### 紹介動画
+
+https://github.com/user-attachments/assets/c37610b4-7d8e-45f3-a0d2-4cb0d53c18e3
 
 1. エクスプローラーで画像を右クリックし、**「画像をトリミング」**を選びます。
 2. トリミング枠、角度、縦横比、保存サイズなどを調整します。
